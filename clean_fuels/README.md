@@ -19,4 +19,4 @@ For more information, [read the report](http://unstats.un.org/sdgs/files/metadat
 - [WHO Clean Fuels Data](http://apps.who.int/gho/data/node.main.SDGFUELS712?lang=en)
 - [Atlas Geojson](https://github.com/johan/world.geo.json)
 - [Joined Geojson File](https://github.com/cszc/visualizations/blob/master/clean_fuels/data/cleanfuels.geojson)
-  - Find the data cleaning Jupyter Notebook in the data directory under "creating the geojson.ipynb"
+  - Find the data cleaning Notebook in the data directory under "cleanFuels_Merging-Geojson-Data.ipynb"
