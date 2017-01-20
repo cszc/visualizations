@@ -2,7 +2,7 @@ Created for the [Chicago Policy Review](http://chicagopolicyreview.org)
 
 *Note: For high income countries with no information, the estimate is assumed to be >95%.*
 
-See it in action over at [https://bl.ocks.org(https://bl.ocks.org/cszc/3f8dca7ed1e698c821828e749a2ea2f2)
+See it in action over at [https://bl.ocks.org](https://bl.ocks.org/cszc/3f8dca7ed1e698c821828e749a2ea2f2)
 
 ## About
 "The indicator is calculated as the number of people using clean fuels and technologies for cooking, heating and lighting divided by total population reporting that any cooking, heating or lighting, expressed as percentage.“Clean” is defined by the emission rate targets and specific fuel recommendations (i.e. against unprocessed coal and kerosene)."
