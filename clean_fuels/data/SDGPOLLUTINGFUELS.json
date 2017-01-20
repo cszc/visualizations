@@ -1,0 +1,1985 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 }
+               ],
+  "fact": [
+           {
+             "dim": {
+                      "REGION": "Americas",
+                      "COUNTRY": "Bolivia (Plurinational State of)",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "79"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Brazil",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Americas",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "93"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Americas",
+                      "COUNTRY": "Barbados"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Belize",
+                      "REGION": "Americas",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "87"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Belarus",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "COUNTRY": "Botswana",
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014"
+                    },
+             "Value": "63"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Central African Republic"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "YEAR": "2014",
+                      "COUNTRY": "Canada",
+                      "REGION": "Americas",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "COUNTRY": "Bosnia and Herzegovina",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "40"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "YEAR": "2014",
+                      "COUNTRY": "Chile",
+                      "REGION": "Americas",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "COUNTRY": "China",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific"
+                    },
+             "Value": "57"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Côte d'Ivoire"
+                    },
+             "Value": "18"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "COUNTRY": "Cameroon",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": "18"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Democratic Republic of the Congo",
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "6"
+           },
+           {
+             "dim": {
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Bahamas",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Bahrain",
+                      "YEAR": "2014",
+                      "REGION": "Eastern Mediterranean",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "COUNTRY": "Colombia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": "91"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "COUNTRY": "Comoros",
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": "7"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "COUNTRY": "Cabo Verde",
+                      "YEAR": "2014"
+                    },
+             "Value": "71"
+           },
+           {
+             "dim": {
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Bulgaria",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "79"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "COUNTRY": "Cuba",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": "87"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Cyprus"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "COUNTRY": "Czech Republic",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Germany",
+                      "REGION": "Europe"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "South-East Asia",
+                      "YEAR": "2014",
+                      "COUNTRY": "Bangladesh",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "10"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Burkina Faso",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "7"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Denmark",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Dominican Republic",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "92"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "COUNTRY": "Algeria",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Ecuador",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Americas",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "COUNTRY": "Brunei Darussalam",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Western Pacific"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Africa",
+                      "COUNTRY": "Eritrea",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "14"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "COUNTRY": "Spain",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Estonia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "92"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "COUNTRY": "Ethiopia",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "South-East Asia",
+                      "COUNTRY": "Bhutan",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": "68"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "COUNTRY": "Switzerland",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Fiji",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Western Pacific",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "37"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "France",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Micronesia (Federated States of)",
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "25"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Gabon",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "73"
+           },
+           {
+             "dim": {
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "COUNTRY": "Congo",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "18"
+           },
+           {
+             "dim": {
+                      "REGION": "Europe",
+                      "COUNTRY": "Georgia",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "55"
+           },
+           {
+             "dim": {
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Ghana",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "21"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Guinea",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "6"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific",
+                      "COUNTRY": "Cook Islands",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "80"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Costa Rica"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Eastern Mediterranean",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Djibouti",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "10"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Greece",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Americas",
+                      "COUNTRY": "Grenada",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Guatemala",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Americas",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "36"
+           },
+           {
+             "dim": {
+                      "REGION": "Americas",
+                      "COUNTRY": "Guyana",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "61"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Dominica",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "92"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Benin",
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "7"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Haiti",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "9"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "COUNTRY": "Hungary",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "South-East Asia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Indonesia",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "57"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Belgium",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Africa",
+                      "COUNTRY": "Burundi",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Iran (Islamic Republic of)",
+                      "REGION": "Eastern Mediterranean",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Iraq",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Eastern Mediterranean",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Iceland",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Azerbaijan",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Italy",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Jamaica",
+                      "REGION": "Americas",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "93"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Eastern Mediterranean",
+                      "COUNTRY": "Jordan",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Japan",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Western Pacific",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Austria",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Western Pacific",
+                      "YEAR": "2014",
+                      "COUNTRY": "Australia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Kyrgyzstan",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "76"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Cambodia",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "13"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Kiribati",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Western Pacific",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Antigua and Barbuda",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Republic of Korea",
+                      "REGION": "Western Pacific",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Eastern Mediterranean",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Kuwait",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Lao People's Democratic Republic",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "REGION": "Eastern Mediterranean",
+                      "COUNTRY": "Lebanon",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Armenia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Americas",
+                      "COUNTRY": "Argentina",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Sri Lanka",
+                      "REGION": "South-East Asia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "19"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "COUNTRY": "Lesotho",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "32"
+           },
+           {
+             "dim": {
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Lithuania",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Eastern Mediterranean",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "United Arab Emirates",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Latvia",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Eastern Mediterranean",
+                      "COUNTRY": "Morocco",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Europe",
+                      "COUNTRY": "Monaco",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "COUNTRY": "Republic of Moldova",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "93"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Madagascar",
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Andorra",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Americas",
+                      "COUNTRY": "Mexico",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "86"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Marshall Islands",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Western Pacific",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "41"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "The former Yugoslav republic of Macedonia",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "61"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "COUNTRY": "Mali",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Malta",
+                      "REGION": "Europe",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Albania",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "67"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "COUNTRY": "Angola",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "48"
+           },
+           {
+             "dim": {
+                      "REGION": "Africa",
+                      "COUNTRY": "Mozambique",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "COUNTRY": "Mauritania",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "45"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Malawi",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Western Pacific",
+                      "COUNTRY": "Malaysia",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Namibia",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "46"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Niger",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Afghanistan",
+                      "REGION": "Eastern Mediterranean",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "17"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Nicaragua",
+                      "REGION": "Americas",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "49"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Niue",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Western Pacific",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "91"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Netherlands",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Norway",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Finland",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Gambia",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Pakistan",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Eastern Mediterranean",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "45"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Guinea-Bissau",
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "COUNTRY": "Equatorial Guinea",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "22"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "COUNTRY": "Honduras",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "48"
+           },
+           {
+             "dim": {
+                      "REGION": "Western Pacific",
+                      "COUNTRY": "Palau",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "58"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Papua New Guinea",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "31"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Poland",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Croatia",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "94"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Eastern Mediterranean",
+                      "COUNTRY": "Egypt",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "South-East Asia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "India",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "34"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Qatar",
+                      "YEAR": "2014",
+                      "REGION": "Eastern Mediterranean",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Romania",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "82"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "COUNTRY": "Russian Federation",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Europe",
+                      "COUNTRY": "Ireland",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Eastern Mediterranean",
+                      "YEAR": "2014",
+                      "COUNTRY": "Saudi Arabia",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Eastern Mediterranean",
+                      "YEAR": "2014",
+                      "COUNTRY": "Sudan",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "23"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "COUNTRY": "Senegal",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "36"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Singapore",
+                      "REGION": "Western Pacific",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Europe",
+                      "COUNTRY": "Israel",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "Africa",
+                      "COUNTRY": "Sierra Leone",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "COUNTRY": "El Salvador"
+                    },
+             "Value": "83"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "COUNTRY": "San Marino",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Eastern Mediterranean",
+                      "YEAR": "2014",
+                      "COUNTRY": "Somalia"
+                    },
+             "Value": "9"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "COUNTRY": "Serbia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": "71"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Kazakhstan",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "92"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Sao Tome and Principe",
+                      "REGION": "Africa",
+                      "YEAR": "2014"
+                    },
+             "Value": "30"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "COUNTRY": "Suriname",
+                      "REGION": "Americas",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014"
+                    },
+             "Value": "91"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "YEAR": "2014",
+                      "COUNTRY": "Slovakia",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "COUNTRY": "Slovenia"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "COUNTRY": "Sweden"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Kenya",
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "6"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Seychelles",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Syrian Arab Republic",
+                      "YEAR": "2014",
+                      "REGION": "Eastern Mediterranean",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Chad",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Togo",
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "6"
+           },
+           {
+             "dim": {
+                      "REGION": "South-East Asia",
+                      "YEAR": "2014",
+                      "COUNTRY": "Thailand",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "76"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Americas",
+                      "COUNTRY": "Saint Kitts and Nevis",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "COUNTRY": "Liberia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Timor-Leste",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "South-East Asia",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "REGION": "Western Pacific",
+                      "YEAR": "2014",
+                      "COUNTRY": "Tonga",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "63"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Americas",
+                      "COUNTRY": "Trinidad and Tobago",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Tunisia",
+                      "REGION": "Eastern Mediterranean",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Saint Lucia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Americas",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "United Republic of Tanzania",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "COUNTRY": "Uganda",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Ukraine",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Americas",
+                      "COUNTRY": "Uruguay",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Luxembourg",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "South-East Asia",
+                      "COUNTRY": "Maldives",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "South-East Asia",
+                      "YEAR": "2014",
+                      "COUNTRY": "Myanmar",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "9"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Europe",
+                      "COUNTRY": "Montenegro",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "74"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific",
+                      "COUNTRY": "Viet Nam",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "51"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Western Pacific",
+                      "COUNTRY": "Vanuatu",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "16"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Mongolia",
+                      "REGION": "Western Pacific",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "32"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Mauritius",
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Eastern Mediterranean",
+                      "COUNTRY": "Yemen",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "62"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "COUNTRY": "South Africa",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "82"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Zambia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "16"
+           },
+           {
+             "dim": {
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "YEAR": "2014",
+                      "COUNTRY": "Zimbabwe",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "31"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Nigeria",
+                      "REGION": "Africa",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "REGION": "Western Pacific",
+                      "COUNTRY": "Nauru",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "New Zealand",
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Eastern Mediterranean",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Oman",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Panama",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Americas",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "86"
+           },
+           {
+             "dim": {
+                      "REGION": "Americas",
+                      "COUNTRY": "Peru",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "68"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Philippines",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "45"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "South-East Asia",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Democratic People's Republic of Korea",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "7"
+           },
+           {
+             "dim": {
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Portugal",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "COUNTRY": "Paraguay",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Americas",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "64"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Rwanda",
+                      "REGION": "Africa",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Solomon Islands",
+                      "REGION": "Western Pacific"
+                    },
+             "Value": "9"
+           },
+           {
+             "dim": {
+                      "PUBLISHSTATE": "Published",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "COUNTRY": "South Sudan"
+                    },
+             "Value": "<5"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Africa",
+                      "COUNTRY": "Swaziland",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "35"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Tajikistan",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "REGION": "Europe",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "72"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Turkmenistan",
+                      "REGION": "Europe",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Western Pacific",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Tuvalu",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "30"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "Americas",
+                      "COUNTRY": "United States of America",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Comments": "For high income countries with no information,  the estimate is assumed to be >95%.",
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "REGION": "Europe",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "COUNTRY": "Uzbekistan",
+                      "YEAR": "2014",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "90"
+           },
+           {
+             "dim": {
+                      "REGION": "Americas",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "YEAR": "2014",
+                      "COUNTRY": "Saint Vincent and the Grenadines",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "YEAR": "2014",
+                      "REGION": "Americas",
+                      "COUNTRY": "Venezuela (Bolivarian Republic of)",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": ">95"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Samoa",
+                      "YEAR": "2014",
+                      "REGION": "Western Pacific",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "27"
+           },
+           {
+             "dim": {
+                      "COUNTRY": "Nepal",
+                      "YEAR": "2014",
+                      "GHO": "Proportion of population with primary reliance on clean fuels (%)",
+                      "REGION": "South-East Asia",
+                      "PUBLISHSTATE": "Published"
+                    },
+             "Value": "26"
+           }
+          ]
+}
